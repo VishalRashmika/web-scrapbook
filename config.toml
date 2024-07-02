@@ -21,7 +21,8 @@ highlight_theme = "agola-dark"
 # Put all your custom variables here
 
 links = [
-    { title = "Mail", href = "mailto:example@example.com" },
-    { title = "GitHub", href = "https://github.com" },
-    { title = "LinkedIn", href = "https://linkedin.com" }
+    #{ title = "Mail", href = "mailto:example@example.com" },
+    
+    #{ title = "GitHub", href = "https://github.com" },
+    #{ title = "LinkedIn", href = "https://linkedin.com" }
 ]
