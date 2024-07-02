@@ -260,5 +260,3 @@ date = 2024-07-02
 | [253](https://www.ascii-code.com/CP1252/253 "ASCII Code 253 (Windows-1252)") | 375 | FD  | 11111101 | ý       | &#253;      | &yacute;  | Latin small letter y with acute            |
 | [254](https://www.ascii-code.com/CP1252/254 "ASCII Code 254 (Windows-1252)") | 376 | FE  | 11111110 | þ       | &#254;      | &thorn;   | Latin small letter thorn                   |
 | [255](https://www.ascii-code.com/CP1252/255 "ASCII Code 255 (Windows-1252)") | 377 | FF  | 11111111 | ÿ       | &#255;      | &yuml;    | Latin small letter y with diaeresis        |
-|                                                                              |     |     |          |         |             |           |                                            |
-|                                                                              |     |     |          |         |             |           |                                            |
