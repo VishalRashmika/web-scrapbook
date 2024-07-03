@@ -3,11 +3,15 @@ title = "Raylib"
 date = 2024-07-03
 +++
 
-## Raylib Command (linux)
+## Raylib command (linux)
+
 ```
 g++ main.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o main && ./main
 ```
 
+# Raylib starter template for windows
+
+- [Raylib Starter Template](https://scrapbook.vishalrashmika.com/raylib.zip)
 
 # Raylib to web-assembly (windows)
 ```
